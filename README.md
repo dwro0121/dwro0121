@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dwro0121&hide=issues,prs&count_private=true&theme=dracula&bg_color=20232A">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dwro0121&hide=issues,prs&count_private=true&theme=radical&bg_color=20232A">
 </div>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dwro0121&theme=dracula&bg_color=20232A"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwro0121&langs_count=10?hide=html,css,scss&layout=compact&theme=dracula&bg_color=20232A"></td>
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dwro0121&theme=radical&bg_color=20232A"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwro0121&langs_count=10?hide=html,css,scss&layout=compact&theme=radical&bg_color=20232A"></td>
   </tr>
 </table>
