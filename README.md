@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dwro0121&count_private=true&theme=dracula&bg_color=20232A&hide=issues,pr">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dwro0121&hide=issues,pr&count_private=true&theme=dracula&bg_color=20232A">
 </div>
 
 <table cellspacing="0" cellpadding="0">
