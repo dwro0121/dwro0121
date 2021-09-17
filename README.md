@@ -1,13 +1,11 @@
 <div align="center">  
- 
-[![Personal Page(CV)](https://img.shields.io/badge/PersonalPage(CV)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](dwro0121.github.io)
+  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwro0121&count_bg=%237CD963&title_bg=%23606060&icon=&icon_color=%23D2C1C1&title=Profile+Views&edge_flat=false) 
+[![Resume](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](dwro0121.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwro0121@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dwro0121/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/dw.o)  
  
- 
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwro0121&count_bg=%237CD963&title_bg=%23606060&icon=&icon_color=%23D2C1C1&title=Profile+Views&edge_flat=false) 
- 
+### :cyclone: Languages & Skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 <!-- ### Career
 
