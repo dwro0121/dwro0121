@@ -1,6 +1,6 @@
 <div align="center">  
  
-[![Personal Page(CV)](https://img.shields.io/badge/Personal Page(CV)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](dwro0121.github.io)
+[![Personal Page(CV)](https://img.shields.io/badge/PersonalPage(CV)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](dwro0121.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwro0121@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dwro0121/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/dw.o)  
