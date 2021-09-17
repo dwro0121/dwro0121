@@ -4,14 +4,6 @@
   
 [![Resume](https://img.shields.io/badge/Resume-%23121011.svg?style=flat-square&logo=github&logoColor=white)](dwro0121.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dwro0121@gmail.com)
- 
-### :cyclone: Languages & Skills
-![C](https://img.shields.io/wordpress/theme/stars/C.svg?color=blue&label=C&logo=C&logoColor=white&style=for-the-badge)
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 <!-- ### Career
 
