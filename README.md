@@ -1,5 +1,1 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwro0121&count_bg=%237CD963&title_bg=%23606060&icon=&icon_color=%23D2C1C1&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwro0121@gmail.com)](mailto:dwro0121@gmail.com)
-	[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwro0121@gmail.com)](mailto:dwro0121@gmail.com)
-	
