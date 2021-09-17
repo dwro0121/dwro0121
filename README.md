@@ -25,7 +25,3 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwro0121&langs_count=10?hide=html,css,scss&layout=compact&theme=dracula&bg_color=20232A"></td>
   </tr>
 </table>
-
-<div align=center>
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dwro0121&theme=dracula&bg_color=20232A">
-</div>
